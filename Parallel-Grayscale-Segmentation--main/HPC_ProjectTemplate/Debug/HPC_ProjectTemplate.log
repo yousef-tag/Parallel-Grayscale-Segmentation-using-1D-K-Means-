@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\4nd\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(87,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\4nd\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(285,24): warning C4018: '<': signed/unsigned mismatch
+D:\4nd\HPC\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(307,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> D:\4nd\HPC\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
